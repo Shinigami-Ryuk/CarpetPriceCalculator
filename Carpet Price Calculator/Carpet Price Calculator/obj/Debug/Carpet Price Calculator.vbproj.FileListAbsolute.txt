@@ -1,0 +1,12 @@
+C:\Users\Ryuk_The_Shinigami\Documents\IT-102\Week 4\Carpet Price Calculator\Carpet Price Calculator\bin\Debug\Carpet Price Calculator.exe.config
+C:\Users\Ryuk_The_Shinigami\Documents\IT-102\Week 4\Carpet Price Calculator\Carpet Price Calculator\bin\Debug\Carpet Price Calculator.exe
+C:\Users\Ryuk_The_Shinigami\Documents\IT-102\Week 4\Carpet Price Calculator\Carpet Price Calculator\bin\Debug\Carpet Price Calculator.pdb
+C:\Users\Ryuk_The_Shinigami\Documents\IT-102\Week 4\Carpet Price Calculator\Carpet Price Calculator\bin\Debug\Carpet Price Calculator.xml
+C:\Users\Ryuk_The_Shinigami\Documents\IT-102\Week 4\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet Price Calculator.vbprojAssemblyReference.cache
+C:\Users\Ryuk_The_Shinigami\Documents\IT-102\Week 4\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet_Price_Calculator.frmCalculator.resources
+C:\Users\Ryuk_The_Shinigami\Documents\IT-102\Week 4\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet_Price_Calculator.Resources.resources
+C:\Users\Ryuk_The_Shinigami\Documents\IT-102\Week 4\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet Price Calculator.vbproj.GenerateResource.cache
+C:\Users\Ryuk_The_Shinigami\Documents\IT-102\Week 4\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet Price Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Ryuk_The_Shinigami\Documents\IT-102\Week 4\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet Price Calculator.exe
+C:\Users\Ryuk_The_Shinigami\Documents\IT-102\Week 4\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet Price Calculator.xml
+C:\Users\Ryuk_The_Shinigami\Documents\IT-102\Week 4\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet Price Calculator.pdb
